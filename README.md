@@ -10,6 +10,7 @@ Una carpeta por examen; cada carpeta es autocontenida y conserva su propio backe
 | Carpeta | Examen | Estado |
 |---|---|---|
 | `medpsico-u1u2/` | Medicina Psicológica y Comunicación, Unidades 1-2 (ago-2026) | cerrado |
+| `medpsico-u3u5/` | Medicina Psicológica y Comunicación, Unidades 3-5, examen intermedio (19-oct-2026) | abierto |
 
 ## Reglas
 
